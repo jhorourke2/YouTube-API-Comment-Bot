@@ -25,4 +25,6 @@ A bot that uses the YouTube API to comment on newly uploaded videos.
 
 Video tutorial: https://youtu.be/8zPepIDOgYk
 
+If it just says scraping, make sure to enable the YouTube Data V3 API!. If you have already done that, make sure that the gmail you are using has an actual YouTube channel (required).
+
 ## Made by Enzyme
