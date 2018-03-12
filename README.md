@@ -19,7 +19,7 @@ A bot that uses the YouTube API to comment on newly uploaded videos.
 - google-auth-httplib2
 - requests
 - bs4
--random
+- random
 
 ## Installation and how to use
 
